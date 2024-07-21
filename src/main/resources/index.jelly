@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Add the "Disable Project" button to job main pages (removed from Jenkins 2.460+).
+</div>
