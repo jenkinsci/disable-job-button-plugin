@@ -1,1 +1,2 @@
-* @jenkinsci/disable-job-button-plugin-developers
+# Limit automatic code review requests to production code changes
+/src/main/ @jenkinsci/disable-job-button-plugin-developers

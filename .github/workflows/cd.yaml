@@ -1,4 +1,4 @@
-name: Continuous Delivery
+name: JEP-229 CD
 on:
   workflow_dispatch:
 
